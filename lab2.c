@@ -1,6 +1,6 @@
 #include <iostream>
 #include "cstring"
-#include "fstream"
+include "fstream"
 using namespace std;
 const int num=255;
 class Myclass
